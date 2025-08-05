@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SpokiTheDog
-- 👀 I’m interested in game develope
-- 🌱 I’m currently learning computer science
+- 👋 Hi, I’m @SpokiTheDog - Naor Matsliah
+- 👀 I’m interested in Game Developer
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m Working currently on GraveEscape 2D Platformer Game in Unity
 - 📫 How to reach me: Linkedin - Naor Matsliah
 
